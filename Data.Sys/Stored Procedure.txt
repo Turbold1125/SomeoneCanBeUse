@@ -1,0 +1,69 @@
+1.
+DELIMITER //
+CREATE PROCEDURE `GetEmployeeDetails`(IN EmpID INT)
+BEGIN
+    SELECT * 
+    FROM Employees 
+    WHERE EmployeeID = EmpID;
+END;
+CALL GetEmployeeDetails(9);
+2.
+DELIMITER //
+CREATE PROCEDURE `GetBestEmployeeOf1998`()
+BEGIN
+    SELECT e.EmployeeID, e.FirstName, e.LastName, COUNT(o.OrderID) as NumOrdersDelivered, AVG(DATEDIFF(o.ShippedDate, o.OrderDate)) as AvgDeliveryTime
+    FROM Employees as e, Orders as o
+    WHERE YEAR(o.ShippedDate) = 1998 and e.EmployeeID = o.EmployeeID
+    GROUP BY e.EmployeeID
+    ORDER BY NumOrdersDelivered DESC, AvgDeliveryTime ASC
+    LIMIT 1;
+END;
+call GetBestEmployeeOf1998();
+3.
+DELIMITER //
+DROP PROCEDURE IF EXISTS getEmployeeDetails;
+CREATE PROCEDURE getEmployeeDetails (IN empId INT)
+BEGIN
+    SELECT *
+    FROM Employees
+    WHERE EmployeeID = empId;
+END;
+4.
+DELIMITER //
+CREATE PROCEDURE `getBestCustomerOfYear`(IN year INT)
+BEGIN
+    SELECT c.CustomerID, c.CompanyName, SUM(od.Quantity * od.UnitPrice) AS 'TotalSpent', year
+    FROM `Order Details` as od, Orders as o, Customers as c
+    WHERE YEAR(o.OrderDate) = year and o.CustomerID = c.CustomerID and o.OrderID = od.OrderID
+    GROUP BY c.CustomerID
+    ORDER BY TotalSpent DESC
+    LIMIT 1;
+END;
+CALL getbestcustomerofyear (1998);
+5.
+DELIMITER //
+CREATE PROCEDURE GetBestSubscribersOfAllYears(IN year INT, current INT)
+BEGIN
+    WHILE year <= current DO
+        CALL GetBestCustomerOfYear(year);	
+        SET year = year + 1;
+    END WHILE;
+END;
+CALL GetBestSubscribersOfAllYears(1998, 1995)
+6.
+DELIMITER //
+CREATE PROCEDURE Calculate(IN num INT)
+BEGIN
+	SELECT c.CompanyName, SUM(od.Quantity * od.UnitPrice) AS 'TotalSpent', SUM((od.Quantity * od.UnitPrice) * 0.03) as '3%'
+    FROM Customers as c, `Order Details` as od, Orders as o
+    WHERE o.CustomerID = c.CustomerID and o.OrderID = od.OrderID
+    GROUP BY c.CustomerID
+    ORDER BY TotalSpent DESC
+    LIMIT num;
+END;
+call Calculate(5)
+
+
+
+
+

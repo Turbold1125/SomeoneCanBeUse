@@ -1,0 +1,50 @@
+prefix onto:<http://www.ontotext.com/>
+prefix obo: <http://purl.obolibrary.org/obo/>
+prefix vivo:<http://vivoweb.org/ontology/core#>
+prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select * where {
+    ?FacultyMember obo:RO_0000056 ?Course .
+    ?FacultyMember vivo:hasFacility ?Room .
+    ?FacultyMember rdfs:label ?lecturer .
+    ?Room rdfs:label ?roomNo .
+    ?Course rdfs:label ?course .
+    FILTER regex(str(?lecturer), "Хуягбаатар")
+}
+
+
+
+prefix obo: <http://purl.obolibrary.org/obo/>
+prefix vivo:<http://vivoweb.org/ontology/core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix geo: <http://aims.fao.org/aos/geopolitical.owl#>
+
+select * where {
+    ?department obo:ERO_0000390 ?program .
+    ?department rdfs:label ?name .
+    ?program rdfs:label ?pname .
+    ?program geo:validSince ?date .
+    ?program vivo:rank ?rank .
+    FILTER (CONTAINS(str(?name), "Мэдээлэл, компьютерийн ухааны тэнхим"))
+	FILTER regex(str(?rank), "Бак")
+}
+
+
+prefix obo: <http://purl.obolibrary.org/obo/>
+prefix vivo:<http://vivoweb.org/ontology/core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix geo: <http://aims.fao.org/aos/geopolitical.owl#>
+prefix vcard: <http://www.w3.org/2006/vcard/ns#>
+
+select * where {
+    ?FacultyMember vivo:hasFacility ?Room .
+    ?Department vivo:hasCollaborator ?FacultyMember .
+    ?Department rdfs:label ?dname .
+    ?FacultyMember rdfs:label ?name .
+    ?Room rdfs:label ?roomNo .
+    ?FacultyMember vivo:rank ?degree .
+    ?FacultyMember vcard:email ?email .
+    FILTER (CONTAINS(str(?dname), "Мэдээлэл, компьютерийн ухааны тэнхим"))
+	FILTER regex(str(?degree), "Док")
+}

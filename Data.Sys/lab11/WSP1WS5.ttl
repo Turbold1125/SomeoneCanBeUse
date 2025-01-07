@@ -1,0 +1,726 @@
+<http://system/source/b632cb92468ff48447da785199cf1b96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол Улсын Их Сургууль" .
+<http://system/source/b632cb92468ff48447da785199cf1b96> <http://www.w3.org/2000/01/rdf-schema#label> "Боловсрол Соёл Шинжлэх Ухааны Яам" .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b632cb92468ff48447da785199cf1b96> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/76d6617ccad00a1b62fa2b305a6b9050> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/752d22926591a5d0e2957e8926349a30> .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол Улсын Их Сургууль" .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/be751f8a08e32f939c44611decee654f> .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол Улсын Их Сургууль" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол Улсын Их Сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+<http://system/source/76d6617ccad00a1b62fa2b305a6b9050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/877ea1116e794dbb6199e8513fca362f> .
+<http://system/source/877ea1116e794dbb6199e8513fca362f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/877ea1116e794dbb6199e8513fca362f> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+
+<http://system/source/c739120aea998ee25b18a02a1792f992> <http://www.w3.org/2000/01/rdf-schema#label> "Багшийн хөгжил, цахим сургалтын төв" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/c739120aea998ee25b18a02a1792f992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/c739120aea998ee25b18a02a1792f992> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/1633f5f9fdeb530601e6a9ef2ea64b0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/1633f5f9fdeb530601e6a9ef2ea64b0e> <http://www.w3.org/2000/01/rdf-schema#label> "Инноваци, технологи дамжуулах төв" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/1633f5f9fdeb530601e6a9ef2ea64b0e> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/5e708beee672e8d9eec52ea9439bd3aa> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа, хүний нөөцийн газар" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/5e708beee672e8d9eec52ea9439bd3aa> .
+<http://system/source/5e708beee672e8d9eec52ea9439bd3aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/ea64d47d6dfbeef9759ebed417a79e8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/ea64d47d6dfbeef9759ebed417a79e8d> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/ea64d47d6dfbeef9759ebed417a79e8d> <http://www.w3.org/2000/01/rdf-schema#label> "Мэдээллийн технологийн газар" .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/7fbc0f6700622a11463ae8ee599b2747> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/7fbc0f6700622a11463ae8ee599b2747> <http://www.w3.org/2000/01/rdf-schema#label> "Номын сан" .
+<http://system/source/7fbc0f6700622a11463ae8ee599b2747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/cab7f9fbb20b73bb4d285c4050461aa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/cab7f9fbb20b73bb4d285c4050461aa4> .
+<http://system/source/cab7f9fbb20b73bb4d285c4050461aa4> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутан, төгсөгчийн хэлтэс" .
+
+<http://system/source/e67a6d9fbdeca81118be4f2694a2356f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e67a6d9fbdeca81118be4f2694a2356f> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүү, төлөвлөлтийн газар" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e67a6d9fbdeca81118be4f2694a2356f> .
+
+<http://system/source/a273cc077b84b05d423758134b1c6fe8> <http://www.w3.org/2000/01/rdf-schema#label> "Хамтын ажиллагааны хэлтэс" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/a273cc077b84b05d423758134b1c6fe8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a273cc077b84b05d423758134b1c6fe8> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> <http://www.w3.org/2000/01/rdf-schema#label> "Хангамж үйлчилгээний газар" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> .
+<http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/50f9073b57c1a404bdb91f457ed6d52b> <http://www.w3.org/2000/01/rdf-schema#label> "Хөтөлбөр, чанарын баталгаажуулалтын хэлтэс" .
+<http://system/source/50f9073b57c1a404bdb91f457ed6d52b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/50f9073b57c1a404bdb91f457ed6d52b> .
+
+<http://system/source/987a8eafbf3fa6cb463c0ca33110873e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/987a8eafbf3fa6cb463c0ca33110873e> .
+<http://system/source/987a8eafbf3fa6cb463c0ca33110873e> <http://www.w3.org/2000/01/rdf-schema#label> "Хяналт-Шинжилгээ, үнэлгээний алба" .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/07e29bf62b50467c2e14107bfd00455f> <http://www.w3.org/2000/01/rdf-schema#label> "Элсэлт, бүртгэлийн хэлтэс" .
+<http://system/source/07e29bf62b50467c2e14107bfd00455f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/07e29bf62b50467c2e14107bfd00455f> .
+
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргааны нэгжүүд" .
+<http://system/source/467a8d6a4cfa4fd485c2d099209ee329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/467a8d6a4cfa4fd485c2d099209ee329> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэм шинжилгээний хэлтэс" .
+<http://system/source/752d22926591a5d0e2957e8926349a30> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/467a8d6a4cfa4fd485c2d099209ee329> .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/322460d3f7acf22b9c8bae828928c168> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/2474360d41c6ee272a1322b80122e4ed> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/2000/01/rdf-schema#label> "Шинжлэх ухааны сургууль" .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/20dc815cdba22f73fb347d26bded65f3> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/62a1d80c874d5645875a55a130baedb8> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a7daa82c5e5271f81d953294c267223e> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/2000/01/rdf-schema#label> "Олон улсын харилцаа, нийтийн удирдлагын сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/bec5f7b0a5eee632afecee45956ec262> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> <http://www.w3.org/2000/01/rdf-schema#label> "Ахисан түвшний сургууль" .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/d0534aaaac0786a8742ecc6cc8680972> <http://www.w3.org/2000/01/rdf-schema#label> "Байгаль-Эх Лицей Ахлах Сургууль, Экологийн Боловсролын Төв" .
+<http://system/source/d0534aaaac0786a8742ecc6cc8680972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d0534aaaac0786a8742ecc6cc8680972> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/9a631d77adc352dd85e024a02e76985f> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c4bc5aac9424a6a5fa91f3a088e2c763> <http://www.w3.org/2000/01/rdf-schema#label> "Бүрэлдэхүүн/Салбар сургуулиуд" .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/0c7721d13a3be90bed1b9ea550e3ec57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/0c7721d13a3be90bed1b9ea550e3ec57> <http://www.w3.org/2000/01/rdf-schema#label> "Өвөр зайсан сургалт судалгааны төв" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/0c7721d13a3be90bed1b9ea550e3ec57> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/c47230d55ebbc33618c314ec61cb0df5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c47230d55ebbc33618c314ec61cb0df5> <http://www.w3.org/2000/01/rdf-schema#label> "Генийн инженерчлэлийн лаборатори " .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/c47230d55ebbc33618c314ec61cb0df5> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/11f46900a5532e6fb9e69d9969187600> .
+<http://system/source/11f46900a5532e6fb9e69d9969187600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/11f46900a5532e6fb9e69d9969187600> <http://www.w3.org/2000/01/rdf-schema#label> "Күнзийн институт" .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/842924fe066d16c96a0d181d3cf9a6e3> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол судлалын хүрээлэн" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/842924fe066d16c96a0d181d3cf9a6e3> .
+<http://system/source/842924fe066d16c96a0d181d3cf9a6e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/2e66996c0eb1f05ed3c17d0728aed21b> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/2e66996c0eb1f05ed3c17d0728aed21b> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол-Японы хүний нөөцийн хөгжлийн төв" .
+<http://system/source/2e66996c0eb1f05ed3c17d0728aed21b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/b4e040b2a5074d8342dce2d735eee533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b4e040b2a5074d8342dce2d735eee533> <http://www.w3.org/2000/01/rdf-schema#label> "МУИС хэвлэлийн газар" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/b4e040b2a5074d8342dce2d735eee533> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/9475295adf5bb40f632c72f178c183d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/9475295adf5bb40f632c72f178c183d4> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9475295adf5bb40f632c72f178c183d4> <http://www.w3.org/2000/01/rdf-schema#label> "Хот, бүс нутгийн хөгжлийн судалгааны хүрээлэн" .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/c728bb4910f498fb6209bf221917cb32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c728bb4910f498fb6209bf221917cb32> <http://www.w3.org/2000/01/rdf-schema#label> "Цөмийн физикийн судалгааны төв" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/c728bb4910f498fb6209bf221917cb32> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/07849a09024c4b9091ac15b191eb1e5f> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/07849a09024c4b9091ac15b191eb1e5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/07849a09024c4b9091ac15b191eb1e5f> <http://www.w3.org/2000/01/rdf-schema#label> "Хөгжлийн судалгааны төв" .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/7baced7619b288819853aad79e301573> <http://www.w3.org/2000/01/rdf-schema#label> "Тогтвортой хөгжлийн хүрээлэн " .
+<http://system/source/7baced7619b288819853aad79e301573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/7baced7619b288819853aad79e301573> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/2c5af41867355f722100124b79eeabd0> .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/2000/01/rdf-schema#label> "Бие даасан нэгжүүд" .
+<http://system/source/2c5af41867355f722100124b79eeabd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2c5af41867355f722100124b79eeabd0> <http://www.w3.org/2000/01/rdf-schema#label> "Эмнэлэг" .
+<http://system/source/be751f8a08e32f939c44611decee654f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/b613c20b178568c6568d3ed586deedde> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+<http://system/source/b613c20b178568c6568d3ed586deedde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b613c20b178568c6568d3ed586deedde> <http://www.w3.org/2000/01/rdf-schema#label> "Японы эрх зүйн боловсролын төв" .
+
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/8d731e0661be3cedba0fc4cb2af0db07> .
+<http://system/source/8d731e0661be3cedba0fc4cb2af0db07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/8d731e0661be3cedba0fc4cb2af0db07> <http://www.w3.org/2000/01/rdf-schema#label> "Нийтийн эрх зүйн тэнхим" .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+
+<http://system/source/f75db8d08ca79705a3525b9db078ccd3> <http://www.w3.org/2000/01/rdf-schema#label> "Солонгосын эрх зүйн боловсрол төв" .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/f75db8d08ca79705a3525b9db078ccd3> .
+<http://system/source/f75db8d08ca79705a3525b9db078ccd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/cc76ecdad0b3b788ab00b7c3d966a1a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/cc76ecdad0b3b788ab00b7c3d966a1a5> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+<http://system/source/cc76ecdad0b3b788ab00b7c3d966a1a5> <http://www.w3.org/2000/01/rdf-schema#label> "Хувийн эрх зүйн тэнхим" .
+
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/ef0aef6d4339b4beaaf5e2f9c6827dce> .
+<http://system/source/ef0aef6d4339b4beaaf5e2f9c6827dce> <http://www.w3.org/2000/01/rdf-schema#label> "Практик сургалтын төв" .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+<http://system/source/ef0aef6d4339b4beaaf5e2f9c6827dce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/55173506a009975f2c9eb91d29c68c13> .
+<http://system/source/55173506a009975f2c9eb91d29c68c13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/55173506a009975f2c9eb91d29c68c13> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62a1d80c874d5645875a55a130baedb8> <http://www.w3.org/2000/01/rdf-schema#label> "Хууль зүйн сургууль" .
+
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/dddd63c83cdf340cc97234c1124433c4> .
+<http://system/source/dddd63c83cdf340cc97234c1124433c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/dddd63c83cdf340cc97234c1124433c4> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/d17662933c33783565741e1bc0c7dfdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d17662933c33783565741e1bc0c7dfdd> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d17662933c33783565741e1bc0c7dfdd> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнес консалтинг төв" .
+
+<http://system/source/62fa19664787fe5cc6e4f37657bd9f70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/62fa19664787fe5cc6e4f37657bd9f70> <http://www.w3.org/2000/01/rdf-schema#label> "Нягтлан бодох бүртгэлийн тэнхим" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/62fa19664787fe5cc6e4f37657bd9f70> .
+
+<http://system/source/03deaa146c64ff521a07d4041dfa04a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/03deaa146c64ff521a07d4041dfa04a3> .
+<http://system/source/03deaa146c64ff521a07d4041dfa04a3> <http://www.w3.org/2000/01/rdf-schema#label> "Менежментийн тэнхим" .
+
+<http://system/source/d45e6cc869d2522b2390743fd5785f13> <http://www.w3.org/2000/01/rdf-schema#label> "Маркетинг худалдааны тэнхим" .
+<http://system/source/d45e6cc869d2522b2390743fd5785f13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d45e6cc869d2522b2390743fd5785f13> .
+
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/90c156a540cf67194d6d48be697d55a7> .
+<http://system/source/90c156a540cf67194d6d48be697d55a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн сургууль" .
+<http://system/source/9a631d77adc352dd85e024a02e76985f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/90c156a540cf67194d6d48be697d55a7> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүүгийн тэнхим" .
+
+<http://system/source/32ccdce627b269537af055b70ae620fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/2000/01/rdf-schema#label> "Олон улсын харилцаа, нийтийн удирдлагын сургууль" .
+<http://system/source/32ccdce627b269537af055b70ae620fe> <http://www.w3.org/2000/01/rdf-schema#label> "Нийтийн удирдлагын тэнхим" .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/32ccdce627b269537af055b70ae620fe> .
+
+<http://system/source/805b009ce47af0e3a08f7fbc5f313e63> <http://www.w3.org/2000/01/rdf-schema#label> "Олон улсын харилцааны тэнхим" .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/2000/01/rdf-schema#label> "Олон улсын харилцаа, нийтийн удирдлагын сургууль" .
+<http://system/source/805b009ce47af0e3a08f7fbc5f313e63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/805b009ce47af0e3a08f7fbc5f313e63> .
+
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/efda2e6c0743eed99b9dc26c836eb418> .
+<http://system/source/a7daa82c5e5271f81d953294c267223e> <http://www.w3.org/2000/01/rdf-schema#label> "Олон улсын харилцаа, нийтийн удирдлагын сургууль" .
+<http://system/source/efda2e6c0743eed99b9dc26c836eb418> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/efda2e6c0743eed99b9dc26c836eb418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/81caeb23bf7869b3d94efa61ce130017> <http://www.w3.org/2000/01/rdf-schema#label> "Биеийн тамирын тэнхим" .
+<http://system/source/81caeb23bf7869b3d94efa61ce130017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/07e29bf62b50467c2e14107bfd00455f> <http://www.w3.org/2000/01/rdf-schema#label> "Элсэлт, бүртгэлийн хэлтэс" .
+<http://system/source/07e29bf62b50467c2e14107bfd00455f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/07e29bf62b50467c2e14107bfd00455f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/81caeb23bf7869b3d94efa61ce130017> .
+
+<http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> <http://www.w3.org/2000/01/rdf-schema#label> "Хангамж үйлчилгээний газар" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/875f0fbda7506dfcc0ca7252deb26f8f> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/06c91bfd8432a56268b343c5810fd94d> .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/3d977915e7ba05cfc77d3022fd8b5372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/3d977915e7ba05cfc77d3022fd8b5372> <http://www.w3.org/2000/01/rdf-schema#label> "Сургалт, оюутны алба" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/3d977915e7ba05cfc77d3022fd8b5372> .
+
+<http://system/source/a063a9b4f8fb027a4e4fb2762cc76992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a063a9b4f8fb027a4e4fb2762cc76992> .
+<http://system/source/a063a9b4f8fb027a4e4fb2762cc76992> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэм шинжилгээ, инновацийн алба" .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/85ce3055713dd046ec60a29014f6ac28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/85ce3055713dd046ec60a29014f6ac28> .
+<http://system/source/85ce3055713dd046ec60a29014f6ac28> <http://www.w3.org/2000/01/rdf-schema#label> "Бизнесийн ухааны тэнхим" .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/5fd723276e935f91818ff587aef79bef> .
+<http://system/source/5fd723276e935f91818ff587aef79bef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/5fd723276e935f91818ff587aef79bef> <http://www.w3.org/2000/01/rdf-schema#label> "Англи-Монгол хэлний тэнхим" .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/af632d377fe77d4d9ece78eec7a9635d> .
+<http://system/source/af632d377fe77d4d9ece78eec7a9635d> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/af632d377fe77d4d9ece78eec7a9635d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/50299050b32173413454b9245fb415f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/50299050b32173413454b9245fb415f2> <http://www.w3.org/2000/01/rdf-schema#label> "Гадаад хэлний тэнхим" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/50299050b32173413454b9245fb415f2> .
+
+<http://system/source/b677e38a604cd7b756413a135cc074ec> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүү, хангамж үйлчилгээний алба" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/b677e38a604cd7b756413a135cc074ec> .
+<http://system/source/b677e38a604cd7b756413a135cc074ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e71bc0ffaf6ce766809e95e9113aee6a> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/e71bc0ffaf6ce766809e95e9113aee6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e71bc0ffaf6ce766809e95e9113aee6a> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүү, эдийн засгийн тэнхим" .
+
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэнэт сургууль" .
+<http://system/source/322460d3f7acf22b9c8bae828928c168> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/bfd07ad91cb9ea8987180b229ac97c81> .
+<http://system/source/bfd07ad91cb9ea8987180b229ac97c81> <http://www.w3.org/2000/01/rdf-schema#label> "Нягтлан бодох бүртгэлийн тэнхим" .
+<http://system/source/bfd07ad91cb9ea8987180b229ac97c81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/1e5ae0c071d827993f774a68122f85e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/1e5ae0c071d827993f774a68122f85e0> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/1e5ae0c071d827993f774a68122f85e0> <http://www.w3.org/2000/01/rdf-schema#label> "Нягтлан бодох бүртгэлийн тэнхим" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/ee8fd6d3d0fae548e39d77577d9c7c5c> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүү, эдийн засгийн тэнхим" .
+<http://system/source/ee8fd6d3d0fae548e39d77577d9c7c5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/ee8fd6d3d0fae548e39d77577d9c7c5c> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/d0ab303a54f1a5473d6245ce21c3b516> <http://www.w3.org/2000/01/rdf-schema#label> "Санхүү, хангамж үйлчилгээний алба" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d0ab303a54f1a5473d6245ce21c3b516> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/d0ab303a54f1a5473d6245ce21c3b516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/40675c086d8306e532b17c8da2bf3832> <http://www.w3.org/2000/01/rdf-schema#label> "Ерөнхий эрдмийн тэнхим" .
+<http://system/source/40675c086d8306e532b17c8da2bf3832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/40675c086d8306e532b17c8da2bf3832> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/e90aad52c2ba8765cc876cca49de32d2> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e90aad52c2ba8765cc876cca49de32d2> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/e90aad52c2ba8765cc876cca49de32d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/8148d8b2c8d5383122e90595f03271e9> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/8148d8b2c8d5383122e90595f03271e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/8148d8b2c8d5383122e90595f03271e9> <http://www.w3.org/2000/01/rdf-schema#label> "Эрдэм шинжилгээ, инновацийн алба" .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/27f587823dbb27dfe5b74705d6149b8a> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/2000/01/rdf-schema#label> "Завхан сургууль" .
+<http://system/source/27f587823dbb27dfe5b74705d6149b8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/bec5f7b0a5eee632afecee45956ec262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/27f587823dbb27dfe5b74705d6149b8a> <http://www.w3.org/2000/01/rdf-schema#label> "Сургалт, оюутны алба" .
+
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d1ecbbe758f7e3261ebe0016a6780367> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/2000/01/rdf-schema#label> "Шинжлэх ухааны сургууль" .
+
+<http://system/source/e2927af8f3b13d245f485bb7f21da64d> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e2927af8f3b13d245f485bb7f21da64d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e2927af8f3b13d245f485bb7f21da64d> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/2000/01/rdf-schema#label> "Шинжлэх ухааны сургууль" .
+
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/2000/01/rdf-schema#label> "Шинжлэх ухааны сургууль" .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/b0657ba5d347e0f22a53e3368133c949> .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+<http://system/source/2474360d41c6ee272a1322b80122e4ed> <http://www.w3.org/2000/01/rdf-schema#label> "Шинжлэх ухааны сургууль" .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e063e25fa0202715f20041611ee9e55d> .
+<http://system/source/e063e25fa0202715f20041611ee9e55d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e063e25fa0202715f20041611ee9e55d> <http://www.w3.org/2000/01/rdf-schema#label> "Мэдээлэл, компьютерийн ухааны тэнхим" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/6be6d657a7403a67b625562effaee0aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/6be6d657a7403a67b625562effaee0aa> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/6be6d657a7403a67b625562effaee0aa> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/237ac43f5da26cf29f21668524ba4578> <http://www.w3.org/2000/01/rdf-schema#label> "Хүрээлэн буй орчин, ойн инженерчлэлийн тэнхим" .
+<http://system/source/237ac43f5da26cf29f21668524ba4578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/237ac43f5da26cf29f21668524ba4578> .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/ea181e49f1cef88cb17c86db444944f2> .
+<http://system/source/ea181e49f1cef88cb17c86db444944f2> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний математикийн тэнхим" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+<http://system/source/ea181e49f1cef88cb17c86db444944f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d41a64ecd2c5f20d6929990857cda3a5> <http://www.w3.org/2000/01/rdf-schema#label> "Хими, биологийн инженерчлэлийн тэнхим" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d41a64ecd2c5f20d6929990857cda3a5> .
+<http://system/source/d41a64ecd2c5f20d6929990857cda3a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/8163569d436bb7eaf7ea5259a56f7eff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/8163569d436bb7eaf7ea5259a56f7eff> .
+<http://system/source/8163569d436bb7eaf7ea5259a56f7eff> <http://www.w3.org/2000/01/rdf-schema#label> "Электроник, холбооны инженерчлэлийн тэнхим" .
+<http://system/source/20dc815cdba22f73fb347d26bded65f3> <http://www.w3.org/2000/01/rdf-schema#label> "Хэрэглээний шинжлэх ухаан, инженерчлэлийн сургууль" .
+
+<http://system/source/42c85f8e218d2707bdcaf340a1568da8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/42c85f8e218d2707bdcaf340a1568da8> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/42c85f8e218d2707bdcaf340a1568da8> <http://www.w3.org/2000/01/rdf-schema#label> "Шинэ материалын хими технологийн төв" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/37843afb1bedf55a3d174c5430ee1623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/37843afb1bedf55a3d174c5430ee1623> <http://www.w3.org/2000/01/rdf-schema#label> "Химийн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/37843afb1bedf55a3d174c5430ee1623> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/7bd895c5575029ad380f989ff698f2a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/7bd895c5575029ad380f989ff698f2a3> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/7bd895c5575029ad380f989ff698f2a3> <http://www.w3.org/2000/01/rdf-schema#label> "Физикийн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a86f1b6dfe77dfc2f0c00ed211639593> .
+<http://system/source/a86f1b6dfe77dfc2f0c00ed211639593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a86f1b6dfe77dfc2f0c00ed211639593> <http://www.w3.org/2000/01/rdf-schema#label> "Геологи, геофизикийн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/7c903e5325590c8bd5d0a07b354a6d97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/7c903e5325590c8bd5d0a07b354a6d97> <http://www.w3.org/2000/01/rdf-schema#label> "Газарзүйн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/7c903e5325590c8bd5d0a07b354a6d97> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/41e7d73acfff6742c016b43b1c03d1f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/41e7d73acfff6742c016b43b1c03d1f2> .
+<http://system/source/41e7d73acfff6742c016b43b1c03d1f2> <http://www.w3.org/2000/01/rdf-schema#label> "Биологийн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/70c1323e3428c1b4f9447e48d9c1d950> .
+<http://system/source/70c1323e3428c1b4f9447e48d9c1d950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/70c1323e3428c1b4f9447e48d9c1d950> <http://www.w3.org/2000/01/rdf-schema#label> "Математикийн тэнхим" .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f3e7e00efdd23ff36b3ce8039b6c6f08> <http://www.w3.org/2000/01/rdf-schema#label> "Байгалийн ухааны салбар" .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/1a547695e8a48e56df3cf6595c9c2375> <http://www.w3.org/2000/01/rdf-schema#label> "Боловсрол, сэтгэл судлалын тэнхим" .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/1a547695e8a48e56df3cf6595c9c2375> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+<http://system/source/1a547695e8a48e56df3cf6595c9c2375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/1a21526e725d63bee2c49466e79c21fc> <http://www.w3.org/2000/01/rdf-schema#label> "Антропологи, археологийн тэнхим" .
+<http://system/source/1a21526e725d63bee2c49466e79c21fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/1a21526e725d63bee2c49466e79c21fc> .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/8cb5c01d113ca4d475c653262da777c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/8cb5c01d113ca4d475c653262da777c4> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+<http://system/source/8cb5c01d113ca4d475c653262da777c4> <http://www.w3.org/2000/01/rdf-schema#label> "Улс төр судлалын тэнхим" .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/3487393502112319702b906ef3d00f86> .
+<http://system/source/3487393502112319702b906ef3d00f86> <http://www.w3.org/2000/01/rdf-schema#label> "Сэтгүүл зүй, олон нийтийн харилцааны тэнхим" .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/3487393502112319702b906ef3d00f86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/6c6df450ae3cd4172f538371001cfe54> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/6c6df450ae3cd4172f538371001cfe54> <http://www.w3.org/2000/01/rdf-schema#label> "Социологи, нийгмийн ажлын тэнхим" .
+<http://system/source/6c6df450ae3cd4172f538371001cfe54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f13fb0c307557d48cb1078f87b3bd1eb> <http://www.w3.org/2000/01/rdf-schema#label> "Эдийн засгийн тэнхим" .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://www.w3.org/2000/01/rdf-schema#label> "Нийгмийн ухааны салбар" .
+<http://system/source/f13fb0c307557d48cb1078f87b3bd1eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/b0657ba5d347e0f22a53e3368133c949> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/f13fb0c307557d48cb1078f87b3bd1eb> .
+
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/a378291e14d4ec14960ca80133e1d006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a378291e14d4ec14960ca80133e1d006> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a378291e14d4ec14960ca80133e1d006> <http://www.w3.org/2000/01/rdf-schema#label> "Түүхийн тэнхим" .
+
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/f7fbbe74b3d2b31de7d96eaeb00d725c> <http://www.w3.org/2000/01/rdf-schema#label> "Утга зохиол, урлаг судлалын тэнхим" .
+<http://system/source/f7fbbe74b3d2b31de7d96eaeb00d725c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/f7fbbe74b3d2b31de7d96eaeb00d725c> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/d58452b1c020745b578e6aa0fd019417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d58452b1c020745b578e6aa0fd019417> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d58452b1c020745b578e6aa0fd019417> <http://www.w3.org/2000/01/rdf-schema#label> "Философи, шашин судлалын тэнхим" .
+
+<http://system/source/d0ee9961fbda1320617c149f021ff0b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/d0ee9961fbda1320617c149f021ff0b6> <http://www.w3.org/2000/01/rdf-schema#label> "Ази судлалын тэнхим" .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d0ee9961fbda1320617c149f021ff0b6> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/523760f65a366ee3a06ea10cd64693c3> <http://www.w3.org/2000/01/rdf-schema#label> "Гадаад хэлний сургалтын төв" .
+<http://system/source/523760f65a366ee3a06ea10cd64693c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/523760f65a366ee3a06ea10cd64693c3> .
+
+<http://system/source/6ea1086e7c6cc8cd879a58f1537e41e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/6ea1086e7c6cc8cd879a58f1537e41e5> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/6ea1086e7c6cc8cd879a58f1537e41e5> <http://www.w3.org/2000/01/rdf-schema#label> "Европ судлалын тэнхим" .
+
+<http://system/source/cbeb1a786c301d3c89befeab811748ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/cbeb1a786c301d3c89befeab811748ff> <http://www.w3.org/2000/01/rdf-schema#label> "Их Британи, Америк судлалын тэнхим" .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/cbeb1a786c301d3c89befeab811748ff> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/42df8c8a1d56ad9aea8b17ffd4d0aa97> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/2000/01/rdf-schema#label> "Хүмүүнлэгийн ухааны салбар" .
+<http://system/source/42df8c8a1d56ad9aea8b17ffd4d0aa97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d1ecbbe758f7e3261ebe0016a6780367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/42df8c8a1d56ad9aea8b17ffd4d0aa97> <http://www.w3.org/2000/01/rdf-schema#label> "Монгол хэл, хэл шинжлэлийн тэнхим" .
+
+<http://system/source/26c70784c030e93700b75fbf89fb3a50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/26c70784c030e93700b75fbf89fb3a50> .
+<http://system/source/26c70784c030e93700b75fbf89fb3a50> <http://www.w3.org/2000/01/rdf-schema#label> "Сантехникийн хэсэг" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/e684b90f8200082264dc26ffebedede3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e684b90f8200082264dc26ffebedede3> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 1-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e684b90f8200082264dc26ffebedede3> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/26d3a41ab211d5623216a23051604897> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 2-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/26d3a41ab211d5623216a23051604897> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/26d3a41ab211d5623216a23051604897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/6ab1349934107cae789d043ba0f4e251> .
+<http://system/source/6ab1349934107cae789d043ba0f4e251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/6ab1349934107cae789d043ba0f4e251> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 3-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/a7b14ab6dac86e6895266f0ca3d5281e> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 4-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/a7b14ab6dac86e6895266f0ca3d5281e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/a7b14ab6dac86e6895266f0ca3d5281e> .
+
+<http://system/source/2fa54f1e6afddcea0cc6a384a38995e2> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 5-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/2fa54f1e6afddcea0cc6a384a38995e2> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/2fa54f1e6afddcea0cc6a384a38995e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/1fee0ce702ada0575f92ee430d86eb67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/1fee0ce702ada0575f92ee430d86eb67> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/1fee0ce702ada0575f92ee430d86eb67> <http://www.w3.org/2000/01/rdf-schema#label> "Оюутны 6-р байр" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/d8f80944522302287b2a5de627e38efd> <http://www.w3.org/2000/01/rdf-schema#label> "E-Номын сан" .
+<http://system/source/d8f80944522302287b2a5de627e38efd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/d8f80944522302287b2a5de627e38efd> .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/8d7324268e466a28bd0e128dbf3b7148> .
+<http://system/source/8d7324268e466a28bd0e128dbf3b7148> <http://www.w3.org/2000/01/rdf-schema#label> "Авто граж" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/8d7324268e466a28bd0e128dbf3b7148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/58327dedf9fee5860b539b9fae1459f6> .
+<http://system/source/58327dedf9fee5860b539b9fae1459f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/58327dedf9fee5860b539b9fae1459f6> <http://www.w3.org/2000/01/rdf-schema#label> "Барилгын бригад" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/3684b45293928d61e731c3c686c34286> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/3684b45293928d61e731c3c686c34286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/3684b45293928d61e731c3c686c34286> <http://www.w3.org/2000/01/rdf-schema#label> "Хүн эмнэлгийн салбар" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/24ed7f92fb4b945569e16238a7d16e1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/24ed7f92fb4b945569e16238a7d16e1d> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/24ed7f92fb4b945569e16238a7d16e1d> <http://www.w3.org/2000/01/rdf-schema#label> "Цахилгааны хэсэг" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/3a6b77e98f3adc9400dd7540096c875c> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 1-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/3a6b77e98f3adc9400dd7540096c875c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/3a6b77e98f3adc9400dd7540096c875c> .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/41254b6681cfb3410f7d14e0453035cd> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/41254b6681cfb3410f7d14e0453035cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/41254b6681cfb3410f7d14e0453035cd> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 2-р байр" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e27807600d64767c4a364efe458281f0> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e27807600d64767c4a364efe458281f0> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 3-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+<http://system/source/e27807600d64767c4a364efe458281f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+
+<http://system/source/472f22f2e0e1cca5cfc4c14c096fb5b8> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 4-р байр" .
+<http://system/source/472f22f2e0e1cca5cfc4c14c096fb5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/472f22f2e0e1cca5cfc4c14c096fb5b8> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/e89f7044b934d2e8b0584d2c4ff33b77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/e89f7044b934d2e8b0584d2c4ff33b77> .
+<http://system/source/e89f7044b934d2e8b0584d2c4ff33b77> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 5-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/f00a0e6a2f090c1f0a76743d613c46ae> .
+<http://system/source/f00a0e6a2f090c1f0a76743d613c46ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/f00a0e6a2f090c1f0a76743d613c46ae> <http://www.w3.org/2000/01/rdf-schema#label> "Хичээлийн 7-р байр" .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/06c91bfd8432a56268b343c5810fd94d> <http://www.w3.org/2000/01/rdf-schema#label> "Үйлчилгээний нэгж" .
+
+<http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+<http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> <http://www.w3.org/2000/01/rdf-schema#label> "Ахисан түвшний сургууль" .
+<http://system/source/3b27ad7499abc82b56f119f9eb64158e> <http://www.w3.org/2000/01/rdf-schema#label> "Захиргаа" .
+<http://system/source/c9a18ae57583a6c87f93d8fc56e8b2f6> <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://system/source/3b27ad7499abc82b56f119f9eb64158e> .
+<http://system/source/3b27ad7499abc82b56f119f9eb64158e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vivoweb.org/ontology/core#Department> .
+

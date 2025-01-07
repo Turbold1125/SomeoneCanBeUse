@@ -1,0 +1,31 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+public class DatabaseSystemTask {
+    public static void main(String[] args) throws SQLException{
+    String DB_URL = "jdbc:mysql://localhost:3308/urgoo" ;
+    String USER = "root" ;
+    String PASS = "" ;
+    String username = "nick" ;
+    String email = "nick1nick2@yahoo.com" ;
+    int phone_number = 88238485 ;
+    String passwordd = "nick12345678" ;
+    try {
+    Connection connection = DriverManager.getConnection(DB_URL, USER, PASS) ;
+    String sql = "UPDATE users SET username=?, email=?, passwordd=? WHERE phone_number=?" ;
+    PreparedStatement statement = connection.prepareStatement(sql) ;
+    statement.setString(1, username);
+    statement.setString(2, email);
+    statement.setString(3, passwordd);
+    statement.setInt(4, phone_number);
+    int rows = statement.executeUpdate() ;
+    if (rows > 0){
+    System.out.println("User information updated successfully");
+    }
+    }
+    catch (SQLException ex) {
+    ex.printStackTrace();
+    }
+    }
+}

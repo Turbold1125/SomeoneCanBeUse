@@ -1,0 +1,33 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+public class DatabaseSystemTask {
+    public static void main(String[] args) throws SQLException{
+    String DB_URL = "jdbc:mysql://localhost:3308/urgoo" ;
+    String USER = "root" ;
+    String PASS = "Bu162178" ;
+    int id = 5 ;
+    String username = "jack" ;
+    String email = "jack123@gmail.com" ;
+    int phone_number = 88238485 ;
+    String passwordd = "jack123" ;
+    try {
+    Connection connection = DriverManager.getConnection(DB_URL, USER, PASS) ;
+    String sql = "INSERT INTO users (id, username, email, phone_number, passwordd)" + " VALUES (?, ?, ?, ?, ?)" ;
+    PreparedStatement statement = connection.prepareStatement(sql) ;
+    statement.setInt(1, id);
+    statement.setString(2, username);
+    statement.setString(3, email);
+    statement.setInt(4, phone_number);
+    statement.setString(5, passwordd);
+    int rows = statement.executeUpdate() ;
+    if (rows > 0){
+    System.out.println("New user information added successfully");
+    }
+    }
+    catch (SQLException ex) {
+    ex.printStackTrace();
+    }
+    }
+}

@@ -1,0 +1,17 @@
+use urgoo;
+
+
+
+CREATE USER 'user_a'@'localhost' IDENTIFIED BY 'password';
+
+SELECT user FROM mysql.user;
+
+GRANT ALL PRIVILEGES ON urgoo.* TO 'user_a'@'localhost';
+
+FLUSH PRIVILEGES;
+
+REVOKE ALL PRIVILEGES ON database_name.* from 'user_a'@'localhost';
+
+DROP USER 'user_a'@'localhost';
+
+SHOW GRANTS FOR 'user_a'@'localhost';

